@@ -1,1 +1,2 @@
-blah blah
+When would you want to use a remote repository rather than keeping all your work local?
+When using two or more computers to code or when collaborating with other people
