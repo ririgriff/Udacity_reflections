@@ -4,4 +4,8 @@ It adds a .git directory
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-It allows us to define the files that should be included together as one commit before it is committed
+It allows us to define the files that should be included together as one commit before it is committed 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Only put things in it at any one time that belong together in a single commit
