@@ -9,3 +9,5 @@ It allows us to define the files that should be included together as one commit 
 How can you use the staging area to make sure you have one commit per logical change?
 
 Only put things in it at any one time that belong together in a single commit
+
+blah blah
